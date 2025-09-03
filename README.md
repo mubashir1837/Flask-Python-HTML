@@ -154,3 +154,5 @@ For any questions or feedback, reach out to:
 - Name: Mubashir Ali
 - Email: mubashirali1837@gmail.com
 
+Mubashir Ali - Founder @ Code with Bismillah | Aspiring Bioinformatics & Data Science Professional | Bridging Biology & Data | Researcher | Genomics, Machine Learning, AI | Python, R, Bioinformatics Tools
+
